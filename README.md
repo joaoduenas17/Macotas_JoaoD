@@ -1,5 +1,7 @@
 # Macotas_JoaoD
 1- Abrir la aplicación en tu dispositivo Android.
+
+
 ![Captura de pantalla_20221121_111921](https://user-images.githubusercontent.com/115562340/203220439-a3ea1c17-cda1-402a-bf9d-1bd9447667d0.png)
 
 2- Encontraras la información de tus mascotas! :D
